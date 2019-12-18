@@ -1,5 +1,5 @@
 # Miscellaneous stuff
-
+/node_modules
 /sassc
 /sass-spec
 /node_modules
